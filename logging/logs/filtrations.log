@@ -1,0 +1,5 @@
+{"level":30,"time":"2024-05-23T14:22:07.522Z","service":"filtrations","environment":"production","serverIp":"192.168.1.197","serverHostname":"DESKTOP-396BSDP","msg":"get all filtrations succcess"}
+{"level":30,"time":"2024-05-23T14:22:14.254Z","service":"filtrations","environment":"production","serverIp":"192.168.1.197","serverHostname":"DESKTOP-396BSDP","msg":"get last filtrations success"}
+{"level":30,"time":"2024-05-23T14:22:37.417Z","service":"filtrations","environment":"production","serverIp":"192.168.1.197","serverHostname":"DESKTOP-396BSDP","year":2024,"msg":"insert many filtrations of all year :2024 to DB"}
+{"level":30,"time":"2024-05-23T14:22:37.417Z","service":"filtrations","environment":"production","serverIp":"192.168.1.197","serverHostname":"DESKTOP-396BSDP","year":2024,"msg":"insert many filtrations of all year :2024 to DB"}
+{"level":30,"time":"2024-05-23T14:23:15.493Z","service":"filtrations","environment":"production","serverIp":"192.168.1.197","serverHostname":"DESKTOP-396BSDP","msg":"get all filtrations succcess"}

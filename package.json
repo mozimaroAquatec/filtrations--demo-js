@@ -1,0 +1,42 @@
+{
+  "name": "cours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS=--trace-deprecation  NODE_ENV=development nodemon index.js",
+    "prod": "cross-env NODE_OPTIONS=--trace-deprecation NODE_ENV=production nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.15",
+    "@types/express": "^4.17.20",
+    "@types/ip": "^1.1.3",
+    "@types/joi": "^17.2.3",
+    "@types/morgan": "^1.9.9",
+    "@types/mqtt": "^2.5.0",
+    "@types/node": "^20.8.9",
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "@types/pino": "^7.0.5",
+    "chalk": "^5.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ip": "^2.0.1",
+    "joi": "^17.11.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "morgan": "^1.10.0",
+    "mqtt": "^5.6.1",
+    "pino": "^9.1.0",
+    "pino-mongodb": "^4.3.0",
+    "pino-pretty": "^11.0.0",
+    "typescript": "^5.3.0-dev.20231030"
+  }
+}
